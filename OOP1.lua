@@ -20,6 +20,8 @@ oneHero:skill(30)
 print(oneHero.attack)]]
 
 --第三种方式
+
+--修改了东东动动
 Hero={}
 function Hero:new(o)
 	o=o or {}
